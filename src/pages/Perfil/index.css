@@ -1,0 +1,21 @@
+.containerPerfil {
+  width: 300px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.containerInput {
+  width: 40%;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.buttonRemove {
+  background: transparent;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}

@@ -1,0 +1,2 @@
+Essa aplicação está sendo feita baseado no artigo feito por Wilson Carvalho
+link: https://dev.to/engwilson/entendendo-redux-com-reactjs-p2l
