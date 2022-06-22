@@ -2,7 +2,7 @@ import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 import "./index.css";
 
-import { deleteTask } from "../../store/actions/action";
+import { deleteTask } from "../../../store/example-01/actions/action";
 
 const Perfil = () => {
   const { taskList } = useSelector((state) => state.tasks);

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import "./index.css";
 
-import { addTask } from "../../store/actions/action";
+import { addTask } from "../../../store/example-01/actions/action";
 
 const Home = () => {
   const [newTask, setNewTask] = useState("");
