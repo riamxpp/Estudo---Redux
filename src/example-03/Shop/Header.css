@@ -1,0 +1,29 @@
+header {
+  background-color: #fff;
+  color: #333;
+}
+
+.header-nav {
+  position: sticky;
+  margin-bottom: 10px;
+}
+.header-ul {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-h2 {
+  font-family: monospace;
+  font-size: 30px;
+}
+
+.logout-btn {
+  padding: 10px;
+  background: orangered;
+  border: none;
+}
+
+.logout-btn:hover {
+  background: rgb(0, 6, 59);
+}

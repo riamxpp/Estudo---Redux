@@ -17,6 +17,11 @@ const HomePrincipal = () => {
               Example 02
             </Link>
           </li>
+          <li>
+            <Link className="link" to="/example-03">
+              Example 03
+            </Link>
+          </li>
         </ul>
       </nav>
     </>
